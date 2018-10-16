@@ -34,7 +34,7 @@ html,
 
 .seq {
   position: relative;
-  /*background: #D9D9D9 url("../images/bg-sequence.jpg") no-repeat;*/
+  /*background: #D9D9D9 url("//cdn.jsdelivr.net/gh/braverokmc79/my-mall@2.0.0/images/bg-sequence.jpg") no-repeat;*/
   background-position: 0% 100%;
   background-size: cover;
   /* Dimensions */
@@ -155,7 +155,7 @@ html,
 
 .seq .seq-next {
   right: 20px;
-  /*background: url("../img/slider/bt-next.png");*/
+  /*background: url("//cdn.jsdelivr.net/gh/braverokmc79/my-mall@2.0.0/img/slider/bt-next.png");*/
 }
 
 .seq .seq-next:focus,
@@ -167,7 +167,7 @@ html,
 
 .seq .seq-prev {
   left: 20px;
-  /*background: url("../img/slider/bt-prev.png");*/
+  /*background: url("//cdn.jsdelivr.net/gh/braverokmc79/my-mall@2.0.0/img/slider/bt-prev.png");*/
 }
 
 .seq .seq-prev:focus,
@@ -516,12 +516,12 @@ width: 52.5%;
   }
 
   .seq .seq-next {
-    /*background: url("../images/bt-next@2x.png");*/
+    /*background: url("//cdn.jsdelivr.net/gh/braverokmc79/my-mall@2.0.0/images/bt-next@2x.png");*/
     background-size: 35px 66px;
   }
 
   .seq .seq-prev {
-    /*background: url("../images/bt-prev@2x.png");*/
+    /*background: url("//cdn.jsdelivr.net/gh/braverokmc79/my-mall@2.0.0/images/bt-prev@2x.png");*/
     background-size: 35px 66px;
   }
 }
